@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ExternalModelData CurrentVersion="2">
+  <FilesData Count="1">
+    <FileData CurrentVersion="2" Description="" Location="abquas.inp">
+      <FileDataProperty CurrentVersion="5" Id="99474970-4b69-46b9-aeff-e16f5c4348fc" FileIdentifier="文件1" ApplicationSource="Abaqus" LengthUnit="mm" UnitSystem="NMM_STANDARD" ProcessNodalComponents="True" NodalComponentKey="" ProcessElementComponents="True" ElementComponentKey="" ProcessFaceComponents="True" FaceComponentKey="" ProcessModelData="True" ProcessMesh200FromCdb="False" CheckValidBlockedCdbFile="True" NodeAndElementRenumberingMethod="Automatic" NodeOffset="0" ElementOffset="0" TransformationType="RotationAndTranslation" NumberOfCopies="0" TransformOriginal="False" OriginX="0" OriginXUnit="mm" OriginY="0" OriginYUnit="mm" OriginZ="0" OriginZUnit="mm" ThetaXY="0" ThetaXYUnit="radian" ThetaYZ="0" ThetaYZUnit="radian" ThetaZX="0" ThetaZXUnit="radian" PlanePointX="0" PlanePointXUnit="mm" PlanePointY="0" PlanePointYUnit="mm" PlanePointZ="0" PlanePointZUnit="mm" PlaneNormalX="0" PlaneNormalY="0" PlaneNormalZ="0">
+        <SupportFiles Count="0" />
+        <OutputFiles Id="e85ce4d3-0533-4e8d-8a32-81575451a598">
+          <OutputFile Location="abquas.fecdb" />
+        </OutputFiles>
+      </FileDataProperty>
+    </FileData>
+  </FilesData>
+  <OldFiles Count="1">
+    <OldFile Id="822c5fe8-9a51-4c23-a7aa-ec5be0ed3d82" FileName="abquas.inp" />
+  </OldFiles>
+</ExternalModelData>

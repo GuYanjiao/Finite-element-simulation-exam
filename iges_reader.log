@@ -1,0 +1,360 @@
+**************************************************************************** 
+Info        : IGES Reader 
+Info        : HyperWorks Version 2025.0.0.24 
+Info        : Input file - C:/Users/29804/Desktop/test/test.IGS 
+Info        : Translator used - C:\Program Files\Altair\2025\hwdesktop\io\afc_translators\bin\win64\iges\iges_reader.dll 
+Info        : Translation start time - 01-02-2026 21:41:57 
+Info        :  
+Info        :  
+Info        : -------------------------------------------------- 
+Info        : Import options selected in HyperMesh 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        :   Command line options 
+Info        :   ---------------------- 
+Info        :   CheckFacet                         = on 
+Info        :   CleanupTol                         = -0.01 
+Info        :   ColorsAsMetadata                   = off 
+Info        :   CreationType                       = Parts 
+Info        :   DegSurfTol                         = -0.01 
+Info        :   DoNotMergeEdges                    = off 
+Info        :   GroupsAsRegions                    = off 
+Info        :   ImportBlanked                      = off 
+Info        :   ImportFreeCurves                   = on 
+Info        :   ImportFreePoints                   = on 
+Info        :   LayerAsMetadata                    = on 
+Info        :   LegacyHierarchyAsMetadata          = off 
+Info        :   ScaleFactor                        = 1.0 
+Info        :   SkipConnectivityComputation        = off 
+Info        :   SkipCreationOfSolid                = off 
+Info        :   SkipEntities                       =  
+Info        :   SplitComponents                    = Layer 
+Info        :   TagsAsMetadata                     = on 
+Info        :   TargetUnits                        = MMKNMS (mm kg kN ms) 
+Info        :   TrimWithModelSpaceCurves           = off 
+Info        :   TrimWithPreferredRepresentation    = off 
+Info        :   UpdateSketchingUnits               = on 
+Info        :  
+Info        :   INI file options 
+Info        :   ---------------------- 
+Info        :   PropertyAsGroup                    = NEVER_MANAGE 
+Info        :   Transform402form16                 = off 
+Info        :   TrimRevolvedWithModelSpaceCurves   = off 
+Info        :   UseAnsys128Format                  = off 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        : No specific vendor identified, using default options 
+Info        :   TrimWithModelSpaceCurves           = off 
+Info        :   TrimRevolvedWithModelSpaceCurves   = off 
+Info        :   TrimWithPreferredRepresentation    = off 
+Info        :   CheckFacet                         = on 
+Info        :   UseAnsys128Format                  = off 
+Info        :   Construction                       = off 
+Info        :   Annotation                         = off 
+Info        :   GroupsAsRegions                    = off 
+Info        :   Blanked                            = off 
+Info        :   ImportFreePoints                   = on 
+Info        :   ImportFreeCurves                   = on 
+Info        :   LegacyHierarchyAsMetadata          = off 
+Info        :   SkipCreationOfSolid                = off 
+Info        :   SkipConnectivityComputation        = off 
+Info        :   SplitComponents                    = Layer 
+Info        :   TraverseGroups                     = on 
+Info        :   Transform402form16                 = off 
+Info        :   ImportType                         = ASSEMBLY 
+Info        :   PropertyAsGroup                    = NEVER_MANAGE 
+Info        :   SkipEntities                       =  
+Info        :  
+Info        : Translation end time - 01-02-2026 21:41:57 
+Info        : Translation duration - 0.000000 sec 
+**************************************************************************** 
+
+ 
+**************************************************************************** 
+Info        : IGES Reader 
+Info        : HyperWorks Version 2025.0.0.24 
+Info        : Input file - C:/Users/29804/Desktop/test/test.IGS 
+Info        : Translator used - C:\Program Files\Altair\2025\hwdesktop\io\afc_translators\bin\win64\iges\iges_reader.dll 
+Info        : Translation start time - 01-02-2026 23:06:31 
+Info        :  
+Info        :  
+Info        : -------------------------------------------------- 
+Info        : Import options selected in HyperMesh 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        :   Command line options 
+Info        :   ---------------------- 
+Info        :   CheckFacet                         = on 
+Info        :   CleanupTol                         = -0.01 
+Info        :   ColorsAsMetadata                   = off 
+Info        :   CreationType                       = Parts 
+Info        :   DegSurfTol                         = -0.01 
+Info        :   DoNotMergeEdges                    = off 
+Info        :   GroupsAsRegions                    = off 
+Info        :   ImportBlanked                      = off 
+Info        :   ImportFreeCurves                   = on 
+Info        :   ImportFreePoints                   = on 
+Info        :   LayerAsMetadata                    = on 
+Info        :   LegacyHierarchyAsMetadata          = off 
+Info        :   ScaleFactor                        = 1.0 
+Info        :   SkipConnectivityComputation        = off 
+Info        :   SkipCreationOfSolid                = off 
+Info        :   SkipEntities                       =  
+Info        :   SplitComponents                    = Layer 
+Info        :   TagsAsMetadata                     = on 
+Info        :   TargetUnits                        = MMKNMS (mm kg kN ms) 
+Info        :   TrimWithModelSpaceCurves           = off 
+Info        :   TrimWithPreferredRepresentation    = off 
+Info        :   UpdateSketchingUnits               = on 
+Info        :  
+Info        :   INI file options 
+Info        :   ---------------------- 
+Info        :   PropertyAsGroup                    = NEVER_MANAGE 
+Info        :   Transform402form16                 = off 
+Info        :   TrimRevolvedWithModelSpaceCurves   = off 
+Info        :   UseAnsys128Format                  = off 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        : No specific vendor identified, using default options 
+Info        :   TrimWithModelSpaceCurves           = off 
+Info        :   TrimRevolvedWithModelSpaceCurves   = off 
+Info        :   TrimWithPreferredRepresentation    = off 
+Info        :   CheckFacet                         = on 
+Info        :   UseAnsys128Format                  = off 
+Info        :   Construction                       = off 
+Info        :   Annotation                         = off 
+Info        :   GroupsAsRegions                    = off 
+Info        :   Blanked                            = off 
+Info        :   ImportFreePoints                   = on 
+Info        :   ImportFreeCurves                   = on 
+Info        :   LegacyHierarchyAsMetadata          = off 
+Info        :   SkipCreationOfSolid                = off 
+Info        :   SkipConnectivityComputation        = off 
+Info        :   SplitComponents                    = Layer 
+Info        :   TraverseGroups                     = on 
+Info        :   Transform402form16                 = off 
+Info        :   ImportType                         = ASSEMBLY 
+Info        :   PropertyAsGroup                    = NEVER_MANAGE 
+Info        :   SkipEntities                       =  
+Info        :  
+Info        : Translation end time - 01-02-2026 23:06:31 
+Info        : Translation duration - 0.000000 sec 
+**************************************************************************** 
+
+ 
+**************************************************************************** 
+Info        : IGES Reader 
+Info        : HyperWorks Version 2025.0.0.24 
+Info        : Input file - C:/Users/29804/Desktop/test/test.IGS 
+Info        : Translator used - C:\Program Files\Altair\2025\hwdesktop\io\afc_translators\bin\win64\iges\iges_reader.dll 
+Info        : Translation start time - 01-02-2026 23:07:49 
+Info        :  
+Info        :  
+Info        : -------------------------------------------------- 
+Info        : Import options selected in HyperMesh 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        :   Command line options 
+Info        :   ---------------------- 
+Info        :   CheckFacet                         = on 
+Info        :   CleanupTol                         = -0.01 
+Info        :   ColorsAsMetadata                   = off 
+Info        :   CreationType                       = Parts 
+Info        :   DegSurfTol                         = -0.01 
+Info        :   DoNotMergeEdges                    = off 
+Info        :   GroupsAsRegions                    = off 
+Info        :   ImportBlanked                      = off 
+Info        :   ImportFreeCurves                   = on 
+Info        :   ImportFreePoints                   = on 
+Info        :   LayerAsMetadata                    = on 
+Info        :   LegacyHierarchyAsMetadata          = off 
+Info        :   ScaleFactor                        = 1.0 
+Info        :   SkipConnectivityComputation        = off 
+Info        :   SkipCreationOfSolid                = off 
+Info        :   SkipEntities                       =  
+Info        :   SplitComponents                    = Layer 
+Info        :   TagsAsMetadata                     = on 
+Info        :   TargetUnits                        = MMKNMS (mm kg kN ms) 
+Info        :   TrimWithModelSpaceCurves           = off 
+Info        :   TrimWithPreferredRepresentation    = off 
+Info        :   UpdateSketchingUnits               = on 
+Info        :  
+Info        :   INI file options 
+Info        :   ---------------------- 
+Info        :   PropertyAsGroup                    = NEVER_MANAGE 
+Info        :   Transform402form16                 = off 
+Info        :   TrimRevolvedWithModelSpaceCurves   = off 
+Info        :   UseAnsys128Format                  = off 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        : No specific vendor identified, using default options 
+Info        :   TrimWithModelSpaceCurves           = off 
+Info        :   TrimRevolvedWithModelSpaceCurves   = off 
+Info        :   TrimWithPreferredRepresentation    = off 
+Info        :   CheckFacet                         = on 
+Info        :   UseAnsys128Format                  = off 
+Info        :   Construction                       = off 
+Info        :   Annotation                         = off 
+Info        :   GroupsAsRegions                    = off 
+Info        :   Blanked                            = off 
+Info        :   ImportFreePoints                   = on 
+Info        :   ImportFreeCurves                   = on 
+Info        :   LegacyHierarchyAsMetadata          = off 
+Info        :   SkipCreationOfSolid                = off 
+Info        :   SkipConnectivityComputation        = off 
+Info        :   SplitComponents                    = Layer 
+Info        :   TraverseGroups                     = on 
+Info        :   Transform402form16                 = off 
+Info        :   ImportType                         = ASSEMBLY 
+Info        :   PropertyAsGroup                    = NEVER_MANAGE 
+Info        :   SkipEntities                       =  
+Info        :  
+Info        : Translation end time - 01-02-2026 23:07:49 
+Info        : Translation duration - 0.000000 sec 
+**************************************************************************** 
+
+ 
+**************************************************************************** 
+Info        : IGES Reader 
+Info        : HyperWorks Version 2025.0.0.24 
+Info        : Input file - C:/Users/29804/Desktop/test/test.IGS 
+Info        : Translator used - C:\Program Files\Altair\2025\hwdesktop\io\afc_translators\bin\win64\iges\iges_reader.dll 
+Info        : Translation start time - 01-02-2026 23:08:41 
+Info        :  
+Info        :  
+Info        : -------------------------------------------------- 
+Info        : Import options selected in HyperMesh 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        :   Command line options 
+Info        :   ---------------------- 
+Info        :   CheckFacet                         = on 
+Info        :   CleanupTol                         = -0.01 
+Info        :   ColorsAsMetadata                   = off 
+Info        :   CreationType                       = Parts 
+Info        :   DegSurfTol                         = -0.01 
+Info        :   DoNotMergeEdges                    = off 
+Info        :   GroupsAsRegions                    = off 
+Info        :   ImportBlanked                      = off 
+Info        :   ImportFreeCurves                   = on 
+Info        :   ImportFreePoints                   = on 
+Info        :   LayerAsMetadata                    = on 
+Info        :   LegacyHierarchyAsMetadata          = off 
+Info        :   ScaleFactor                        = 1.0 
+Info        :   SkipConnectivityComputation        = off 
+Info        :   SkipCreationOfSolid                = off 
+Info        :   SkipEntities                       =  
+Info        :   SplitComponents                    = Layer 
+Info        :   TagsAsMetadata                     = on 
+Info        :   TargetUnits                        = MMKNMS (mm kg kN ms) 
+Info        :   TrimWithModelSpaceCurves           = off 
+Info        :   TrimWithPreferredRepresentation    = off 
+Info        :   UpdateSketchingUnits               = on 
+Info        :  
+Info        :   INI file options 
+Info        :   ---------------------- 
+Info        :   PropertyAsGroup                    = NEVER_MANAGE 
+Info        :   Transform402form16                 = off 
+Info        :   TrimRevolvedWithModelSpaceCurves   = off 
+Info        :   UseAnsys128Format                  = off 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        : No specific vendor identified, using default options 
+Info        :   TrimWithModelSpaceCurves           = off 
+Info        :   TrimRevolvedWithModelSpaceCurves   = off 
+Info        :   TrimWithPreferredRepresentation    = off 
+Info        :   CheckFacet                         = on 
+Info        :   UseAnsys128Format                  = off 
+Info        :   Construction                       = off 
+Info        :   Annotation                         = off 
+Info        :   GroupsAsRegions                    = off 
+Info        :   Blanked                            = off 
+Info        :   ImportFreePoints                   = on 
+Info        :   ImportFreeCurves                   = on 
+Info        :   LegacyHierarchyAsMetadata          = off 
+Info        :   SkipCreationOfSolid                = off 
+Info        :   SkipConnectivityComputation        = off 
+Info        :   SplitComponents                    = Layer 
+Info        :   TraverseGroups                     = on 
+Info        :   Transform402form16                 = off 
+Info        :   ImportType                         = ASSEMBLY 
+Info        :   PropertyAsGroup                    = NEVER_MANAGE 
+Info        :   SkipEntities                       =  
+Info        :  
+Info        : Translation end time - 01-02-2026 23:08:41 
+Info        : Translation duration - 0.000000 sec 
+**************************************************************************** 
+
+ 
+**************************************************************************** 
+Info        : IGES Reader 
+Info        : HyperWorks Version 2025.0.0.24 
+Info        : Input file - C:/Users/29804/Desktop/test/test.IGS 
+Info        : Translator used - C:\Program Files\Altair\2025\hwdesktop\io\afc_translators\bin\win64\iges\iges_reader.dll 
+Info        : Translation start time - 01-03-2026 15:28:30 
+Info        :  
+Info        :  
+Info        : -------------------------------------------------- 
+Info        : Import options selected in HyperMesh 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        :   Command line options 
+Info        :   ---------------------- 
+Info        :   CheckFacet                         = on 
+Info        :   CleanupTol                         = -0.01 
+Info        :   ColorsAsMetadata                   = off 
+Info        :   CreationType                       = Parts 
+Info        :   DegSurfTol                         = -0.01 
+Info        :   DoNotMergeEdges                    = off 
+Info        :   GroupsAsRegions                    = off 
+Info        :   ImportBlanked                      = off 
+Info        :   ImportFreeCurves                   = on 
+Info        :   ImportFreePoints                   = on 
+Info        :   LayerAsMetadata                    = on 
+Info        :   LegacyHierarchyAsMetadata          = off 
+Info        :   ScaleFactor                        = 1.0 
+Info        :   SkipConnectivityComputation        = off 
+Info        :   SkipCreationOfSolid                = off 
+Info        :   SkipEntities                       =  
+Info        :   SplitComponents                    = Layer 
+Info        :   TagsAsMetadata                     = on 
+Info        :   TargetUnits                        = MMKNMS (mm kg kN ms) 
+Info        :   TrimWithModelSpaceCurves           = off 
+Info        :   TrimWithPreferredRepresentation    = off 
+Info        :   UpdateSketchingUnits               = on 
+Info        :  
+Info        :   INI file options 
+Info        :   ---------------------- 
+Info        :   PropertyAsGroup                    = NEVER_MANAGE 
+Info        :   Transform402form16                 = off 
+Info        :   TrimRevolvedWithModelSpaceCurves   = off 
+Info        :   UseAnsys128Format                  = off 
+Info        : -------------------------------------------------- 
+Info        :  
+Info        : No specific vendor identified, using default options 
+Info        :   TrimWithModelSpaceCurves           = off 
+Info        :   TrimRevolvedWithModelSpaceCurves   = off 
+Info        :   TrimWithPreferredRepresentation    = off 
+Info        :   CheckFacet                         = on 
+Info        :   UseAnsys128Format                  = off 
+Info        :   Construction                       = off 
+Info        :   Annotation                         = off 
+Info        :   GroupsAsRegions                    = off 
+Info        :   Blanked                            = off 
+Info        :   ImportFreePoints                   = on 
+Info        :   ImportFreeCurves                   = on 
+Info        :   LegacyHierarchyAsMetadata          = off 
+Info        :   SkipCreationOfSolid                = off 
+Info        :   SkipConnectivityComputation        = off 
+Info        :   SplitComponents                    = Layer 
+Info        :   TraverseGroups                     = on 
+Info        :   Transform402form16                 = off 
+Info        :   ImportType                         = ASSEMBLY 
+Info        :   PropertyAsGroup                    = NEVER_MANAGE 
+Info        :   SkipEntities                       =  
+Info        :  
+Info        : Translation end time - 01-03-2026 15:28:30 
+Info        : Translation duration - 0.000000 sec 
+**************************************************************************** 
+
+ 
