@@ -1,0 +1,2 @@
+有限元单元法的考试，网格由hypermesh导出成abaqus.inp再导入ansys workbench
+仿真用matlab编写
