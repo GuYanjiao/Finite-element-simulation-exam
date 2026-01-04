@@ -1,2 +1,5 @@
-有限元单元法的考试，网格由hypermesh导出成abaqus.inp再导入ansys workbench
-仿真用matlab编写
+有限元单元法的考试用的文件
+几何文件放在Geometry file里，划分网格使用的是hypermesh的abaqus模板，导出为2Dinp文件
+求解器使用的是ansys workbench的静态结构求解器，通过外部模型导入inp文件
+仿真程序使用matlab编写
+不知道为什么用hypermesh导出成ansys的cdb文件之后ansys反而用不了。
