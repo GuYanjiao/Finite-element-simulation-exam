@@ -1,0 +1,55 @@
+# encoding: utf-8
+# 2024 R2
+SetScriptVersion(Version="24.2.133")
+template1 = GetTemplate(
+    TemplateName="Static Structural",
+    Solver="ANSYS")
+system1 = template1.CreateSystem()
+template2 = GetTemplate(TemplateName="External Model")
+system2 = template2.CreateSystem(
+    Position="Right",
+    RelativeTo=system1)
+setup1 = system2.GetContainer(ComponentName="Setup")
+externalModelFileData1 = setup1.AddDataFile(FilePath="C:/Users/29804/Desktop/test/abquas.inp")
+setupComponent1 = system2.GetComponent(Name="Setup")
+setupComponent1.Update(AllDependencies=True)
+geometry1 = system1.GetContainer(ComponentName="Geometry")
+geometryProperties1 = geometry1.GetGeometryProperties()
+geometryProperties1.GeometryImportAnalysisType = "AnalysisType_2D"
+modelComponent1 = system1.GetComponent(Name="Model")
+setupComponent1.TransferData(TargetComponent=modelComponent1)
+modelComponent1.Refresh()
+model1 = system1.GetContainer(ComponentName="Model")
+model1.Edit()
+engineeringData1 = system1.GetContainer(ComponentName="Engineering Data")
+material1 = engineeringData1.GetMaterial(Name="结构钢")
+matlProp1 = material1.GetProperty(Name="Elasticity")
+matlProp1.SetVariableProperty(
+    VariableName="Young's Modulus",
+    Property="Unit",
+    Value="GPa")
+matlProp1.SetData(
+    Variables=["Young's Modulus"],
+    Values=[["200 [GPa]"]])
+matlProp1.SetData(
+    Variables=["Young's Modulus"],
+    Values=[["210 [GPa]"]])
+engineeringDataComponent1 = system1.GetComponent(Name="Engineering Data")
+engineeringDataComponent1.Update(AllDependencies=True)
+Save(Overwrite=True)
+model1.Exit()
+setup1.RereadDataFiles()
+modelComponent1.UpdateUpstreamComponents()
+modelComponent1.Refresh()
+model1.Edit()
+setup1.RereadDataFiles()
+setupComponent1.Update(AllDependencies=True)
+modelComponent1.Refresh()
+model1.Edit()
+setup1.RereadDataFiles()
+model1.Edit()
+setupComponent1.Update(AllDependencies=True)
+modelComponent1.Refresh()
+model1.Edit()
+model1.Exit()
+Save(Overwrite=True)

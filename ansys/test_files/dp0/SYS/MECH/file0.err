@@ -1,0 +1,10 @@
+/COM,ANSYS RELEASE 2024 R2           BUILD 24.2      UP20240603       12:04:53
+
+ *** WARNING ***                         CP =       0.281   TIME= 12:04:54
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       0.297   TIME= 12:04:54
+ Material number 2 (used by element 5994) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
